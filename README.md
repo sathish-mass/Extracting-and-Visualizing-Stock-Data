@@ -8,7 +8,7 @@ Here we extract the data of Tesla and GME to visualize the stock data.
 
 Table of Contents
 
-1: Function that Makes a Graph
+1: Function that Makes a Graph\n
 2: Use yfinance to Extract Stock Data
 3: Use Webscraping to Extract Tesla Revenue Data
 4: Use yfinance to Extract Stock Data
